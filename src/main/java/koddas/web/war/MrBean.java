@@ -6,7 +6,7 @@ import java.io.Serializable;
  * MrBean is a simple example of a Java bean; a small class that encapsulates a
  * number of values. It exposes an empty constructor and has a number of
  * members that are accessible through getters and setters.
- * 
+ * Comment added on 111111111 shameem
  * @author Johan Holmberg
  */
 public class MrBean implements Serializable {
